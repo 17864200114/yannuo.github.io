@@ -131,7 +131,7 @@
 .furniture_text {font-size: 40px;}
 .trends_text { font-size: 40px;}
 .banner_section {  padding-top: 30px; }
-.about_long_text { width: 88%; font-size: 14px; padding-top: 20px; }
+.about_long_text { width: 88%; font-size: 14px; padding-top: 0px; }
 .about_bt { display: none; }
 .about_taital { font-size: 44px;}
 .image_left { width: 100%;  float: left; }
